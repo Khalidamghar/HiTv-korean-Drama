@@ -33,70 +33,70 @@
     },
     "guideData": [
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HMbJWBf.jpg",
+      "title": "HiTv korean Drama 1",
+        "text_Content": "HiTv Korean Drama is a popular genre of television series that originates from South Korea. It is a genre that has taken the world by storm, capturing the hearts of audiences from all over the globe. The appeal of these dramas lies in their unique blend of traditional Korean culture, modern storytelling, and compelling characters. HiTv Korean dramas have been credited with promoting the Korean language and culture worldwide, as well as bringing attention to the country's growing entertainment industry.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 2",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HMbJMLG.jpg",
+      "title": "HiTv korean Drama 2",
+        "text_Content": "One of the most popular HiTv Korean dramas is the series "Descendants of the Sun." This drama was released in 2016 and quickly became a global phenomenon. It tells the story of Captain Yoo Si-jin, a member of the Special Forces, and Doctor Kang Mo-yeon, a surgeon who works for Doctors Without Borders. The two meet in a foreign country and fall in love, but their relationship is complicated by their careers and the dangers they face in their respective professions.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 3",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HMbJGXs.jpg",
+      "title": "HiTv korean Drama 3",
+        "text_Content": "One of the reasons why "Descendants of the Sun" is so popular is its attention to detail. The drama was filmed on location in Greece and South Korea, which gives the series an authentic and immersive feel. The scenery is breathtaking, and the costumes are elaborate and well-designed. The series also features a talented cast of actors, including Song Joong-ki and Song Hye-kyo, who deliver powerful performances that bring their characters to life.",
+        "text_Content_1": ""
 
 
 
       
     }
     ,{
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 4",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HMbJX14.jpg",
+      "title": "HiTv korean Drama 4",
+        "text_Content": "One of the reasons why "Descendants of the Sun" is so popular is its attention to detail. The drama was filmed on location in Greece and South Korea, which gives the series an authentic and immersive feel. The scenery is breathtaking, and the costumes are elaborate and well-designed. The series also features a talented cast of actors, including Song Joong-ki and Song Hye-kyo, who deliver powerful performances that bring their characters to life.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 5",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HMbJw22.jpg",
+      "title": "HiTv korean Drama 5",
+        "text_Content": ""Crash Landing on You" is notable for its portrayal of North Korea. Many Western audiences have limited exposure to the country and its culture, and the series provides a unique window into this closed-off nation. The drama also features strong performances by its lead actors, Hyun Bin and Son Ye-jin, who bring nuance and depth to their characters.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 6",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HMbJOk7.jpg",
+      "title": "HiTv korean Drama 6",
+        "text_Content": "Other popular HiTv Korean dramas include "Itaewon Class," "Kingdom," and "Vincenzo." "Itaewon Class" tells the story of an ex-convict who opens a bar in a trendy neighborhood of Seoul and seeks revenge against the man who ruined his life. "Kingdom" is a historical fantasy series that explores the politics and intrigue of the Joseon Dynasty. "Vincenzo" is a crime drama about a Korean-Italian lawyer who returns to South Korea and becomes embroiled in a battle for control of a large corporation.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 7",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HMbJep9.jpg",
+      "title": "HiTv korean Drama 7",
+        "text_Content": "One of the hallmarks of HiTv Korean dramas is their ability to blend genres. Many dramas incorporate elements of romance, comedy, action, and suspense, creating a rich and varied viewing experience. The series also often explore themes such as family, love, sacrifice, and loyalty, which resonate with audiences around the world.",
+        "text_Content_1": ""
 
 
 
